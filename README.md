@@ -1,5 +1,9 @@
 # Predicting Location's Socioeconomic Attributes via Local Restaurants
 
+<div align="center">
+  <img src="https://github.com/leiii/restaurant/blob/master/food_small.jpg" width = "1000"><br><br>
+</div>
+
 ### Replicate data and code
 
 - data_dianping
