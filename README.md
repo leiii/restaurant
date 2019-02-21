@@ -1,4 +1,4 @@
-# Predicting Location's Socioeconomic Attributes via Local Restaurants
+# Predicting neighborhoods' socioeconomic attributes using restaurant data
 
 <div align="center">
   <img src="https://github.com/leiii/restaurant/blob/master/food-small.jpg" width = "1000"><br><br>
