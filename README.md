@@ -14,11 +14,13 @@ Accessing high resolution, timely socioeconomic data such as data on population,
     * Dianping restaurant data of nine cities
     * Baoding, Beijing, Chengdu, Hengyang, Kunming, Shenyang, Shenzhen, Yueyang, and Zhengzhou
     
-- rst [download](https://drive.google.com/open?id=1O8rIy6CDWjapFu1YOYmmOqte8WfHe4Q-)
+- rst 
     * Model training results
+    * [Download](https://drive.google.com/open?id=1O8rIy6CDWjapFu1YOYmmOqte8WfHe4Q-)
     
-- feature [download](https://drive.google.com/open?id=1VbWKqrkNU6MIZb17xH8B1y-k0PWdHUVw)
+- feature 
     * Feature for training
+    * [Download](https://drive.google.com/open?id=1VbWKqrkNU6MIZb17xH8B1y-k0PWdHUVw)
     
     
 Contact: arch.dongl@gmail.com
