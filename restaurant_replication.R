@@ -150,7 +150,7 @@ dt0 <- read.table("feature/beijing_employment_3000_0_0.csv", header = TRUE, sep 
 dt1 <- read.table("feature/beijing_employment_3000_0.5_0.csv", header = TRUE, sep = ",")
 dt2 <- read.table("feature/beijing_employment_3000_0_0.5.csv", header = TRUE, sep = ",")
 dt3 <- read.table("feature/beijing_employment_3000_0.5_0.5.csv", header = TRUE, sep = ",")
-dt <- rbind(dt0, dt1, dt2, dt3)
+dt <- rbind(dt1, dt2, dt3)
 dt <- separate(data = dt, col = X, into = c("x", "y"), sep = "_")
 dt_ <- separate(data = dt0, col = X, into = c("x", "y"), sep = "_")
 dt[is.na(dt)] <- 0
